@@ -4,7 +4,6 @@
 
 **Information Systems graduate · Data Analytics & Software Development**
 <br>
-خريجة نظم معلومات | تحليل بيانات وتطوير برمجيات
 
 ![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 ![Riyadh](https://img.shields.io/badge/RIYADH-555555?style=flat-square)
@@ -14,11 +13,9 @@
 
 ---
 
-## About Me | نبذة عني
+## About Me 
 
-أنا خريجة بكالوريوس نظم معلومات، درست المحاسبة وأنظمة ERP، وأتدرب وأبني مشاريع في تطوير الويب وتحليل البيانات.
-
-I hold a bachelor's degree in Information Systems with a background in accounting and ERP systems. I build web projects and data dashboards, and I am growing as a developer.
+I hold a bachelor's degree in Information Systems with a background in accounting and ERP systems. I am currently studying Software Engineering at Holberton School. I build web projects and data dashboards, and I am growing as a developer.
 
 ## Tech I Work With
 
