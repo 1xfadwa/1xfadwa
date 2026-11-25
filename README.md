@@ -52,5 +52,5 @@ Arabic (native) · English
 
 ## Contact
 
-- LinkedIn: [add your link here](https://www.linkedin.com/in/your-username)
+- LinkedIn: [fadwa-abdullah](http://www.linkedin.com/in/fadwa-abdullah)
 - GitHub: [@1xfadwa](https://github.com/1xfadwa)
